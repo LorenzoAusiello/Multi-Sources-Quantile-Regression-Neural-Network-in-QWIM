@@ -1,0 +1,2 @@
+,"lr, lambda, dropout","p, q, z, k",Validation Loss w/ Penalty,Val. Loss,exceptions
+0,"[0.01, 0.001, 0.1]","[1, 3, 3, 2]",0.0027478319173678757,0.002649170185738332,0.033112582781456956
