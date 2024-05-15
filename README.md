@@ -7,7 +7,7 @@ This project presents the application of a Multi-Sources Quantile Regression Neu
 - Integration of numerical and textual data for VaR estimation.
 - Use of FinBERT for extracting insights from financial news.
 - Implementation of neural network quantile regression for risk assessment.
-- VaR out-of-sample evaluation against traditional methods (historical, RiskMetrics, CAViaR)
+- VaR out-of-sample evaluation against traditional methods (historical, RiskMetrics*, CAViaR)
 
 ### Data Collection
 The data collection phase involved accessing the ”Real Time News” database provided by Refinitiv, which aggregates articles from multiple sources for our selected company
