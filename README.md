@@ -15,3 +15,5 @@ Tesla. The collection period spanned from January 2015 to December 2019. Additio
 
 ### Data Folder
 In the 'Data' folder, you will find the results of the different neural networks training, which took approximately 80 hours to complete. This extensive training period was necessary to ensure the robustness and accuracy of the model in capturing and predicting complex financial dynamics.
+
+*RiskMetrics was performed using R.
