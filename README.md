@@ -14,7 +14,7 @@ The data collection phase involved accessing the ”Real Time News” database p
 Tesla. The collection period spanned from January 2015 to December 2019. Additionally, market data, including stock prices and volume, was collected from Yahoo Finance.
 
 ### Data Folder
-In the `Data` folder, you will find the results of the different neural networks trainings, which took approximately 80 hours to complete. This extensive training period was necessary to ensure the robustness and accuracy of the model in capturing and predicting complex financial dynamics.
+In the `Data` folder, you will find the results of the different neural networks trainings and predictions, which took approximately 80 hours to complete. This extensive training period was necessary to ensure the robustness and accuracy of the model in capturing and predicting complex financial dynamics.
 
 ### Files Description
 - `QWIM_TSLA.ipynb`: Contains the implementation of the Quantile Regression Neural Network, CAViaR, and rolling historical window models for TSLA stock data.
