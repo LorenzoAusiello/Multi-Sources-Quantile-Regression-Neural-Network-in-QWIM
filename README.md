@@ -1,4 +1,4 @@
-## Multi-Sources Quantile Regression Neural Network (MS-QRNN) for Value at Risk Estimation: integrating Financial News for Value at Risk estimation
+## Multi-Sources Quantile Regression Neural Network (MS-QRNN): integrating Financial News for Value at Risk estimation
 
 ### Project Overview
 This project presents the application of a Multi-Sources Quantile Regression Neural Network (MS-QRNN) model designed to enhance the estimation accuracy of Value at Risk (VaR) by integrating both numerical financial time-series data and textual data. Our model incorporates NLP techniques, including FinBERT for textual analysis, and Neural Network architectures to predict the quantiles of asset return distributions. The MS-QRNNmodel’s performance is evaluated against **traditional models** like **rolling historical window methods**, **RiskMetrics***, and **CAViaR**, using Out-of-Sample back-testing. Our results demonstrate that the MS-QRNN model outperforms these traditional approaches in terms of VaR estimation accuracy. We explored real-world applications using TSLA data.
