@@ -21,6 +21,6 @@ In the `Data` folder, you will find the results of the different neural networks
 - `RiskMetrics.R` and `RMfit.R`: These files contain the implementation of the RiskMetrics model.
 
 ### Next steps (in progress) 
-Future research will explore expanding the model’s utility to a wider range of asset classes, various time frames and broader quantile range. Furthermore, there is potential to extend the model into a portfolio-based approach that considers multiple assets. Additionally, investigating the impact of correlations between the two di↵erent inputs could provide deeper insights into the dynamics influencing VaR estimations.
+Future research will explore expanding the model’s utility to a wider range of asset classes, various time frames and broader quantile range. Furthermore, there is potential to extend the model into a portfolio-based approach that considers multiple assets. Additionally, investigating the impact of correlations between the two different inputs could provide deeper insights into the dynamics influencing VaR estimations.
 
 *RiskMetrics was performed using R.
