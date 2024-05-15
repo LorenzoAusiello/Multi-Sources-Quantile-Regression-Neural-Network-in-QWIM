@@ -16,6 +16,10 @@ Tesla. The collection period spanned from January 2015 to December 2019. Additio
 ### Data Folder
 In the 'Data' folder, you will find the results of the different neural networks training, which took approximately 80 hours to complete. This extensive training period was necessary to ensure the robustness and accuracy of the model in capturing and predicting complex financial dynamics.
 
+### Files Description
+- `QWIM_TSLA.ipynb`: Contains the implementation of the Quantile Regression Neural Network, CAViaR, and rolling historical window models for TSLA stock data.
+- `RiskMetrics.R` and 'RMfit.R': These files contain the implementation of the RiskMetrics model.
+
 ### Next steps (in progress) 
 Future research will explore expanding the model’s utility to a wider range of asset classes, various time frames and broader quantile range. Furthermore, there is potential to extend the model into a portfolio-based approach that considers multiple assets. Additionally, investigating the impact of correlations between the two di↵erent inputs could provide deeper insights into the dynamics influencing VaR estimations.
 
